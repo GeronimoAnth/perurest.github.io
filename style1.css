@@ -1,0 +1,9 @@
+
+body {
+    background: #020914;
+    background: linear-gradient(to right, #38383a, #303131);
+}
+.bg {
+    background-image: url(../Imagen/Restaurant\ nazario.jpeg);
+    background-position: center ;
+}
